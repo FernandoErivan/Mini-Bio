@@ -2,15 +2,15 @@ export default function MiniBio() {
   return (
     <section className="mini-bio">
       <img
-        src="/perfil.jpg"
-        alt="Foto do Javinha"
+        src="/perfil.jpeg"
+        alt="Minha foto"
         className="profile-image"
       />
 
-      <h1>Mascote Javinha</h1>
+      <h1>Fernando Erivan</h1>
 
       <p>
-        Desenvolvedor apaixonado por tecnologia e criação de interfaces.
+        Olá visitante, sou estudante de Sistemas para internet na UNICAP e um entusiasta de tecnologias.
       </p>
     </section>
   );
